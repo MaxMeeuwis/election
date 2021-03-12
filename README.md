@@ -46,3 +46,9 @@ Visit this URL in your browser: http://localhost:3000
 
 If you get stuck, please reference the free video tutorial.
 
+## DISCLOSURES:
+@MaxMeeuwis used the election GitHub repository of @dappuniversity for a high school project and tweaked it in minor detail. 
+As a result, a community of ex-high school students (and their parents) have begotten (increased) awareness on the topic of digital voting and the Ethereum blockchain.
+Because @MaxMeeuwis never asked permission from @dappuniversity, all credits for the efforts besides the tweaking of the minor details are given to @dappuniversity,
+and the associated rights belong to @dappuniversity.
+
